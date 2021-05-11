@@ -1,1 +1,1 @@
-Hacker Rank | 10 Days Javascript - Hacker rank is a most popular technology website in the world for the programmer's. I choose 10 days of Javascript challenge for programming problem solving. InshaAllah, I will complete it.
+Hacker Rank | 10 Days Javascript - Hacker rank is a most popular technology website in the world for the programmer's. I choose 10 days of Javascript challenge for programming problem solving. InshaAllah, I will complete it very soon.
