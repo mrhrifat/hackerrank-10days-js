@@ -13,12 +13,12 @@ console.log(getDayName("11/10/2010"))
 
 //Stack Overflow
 function getDayName(dateStr, locale) {
-    var date = new Date(dateStr);
-    return date.toLocaleDateString(locale, { weekday: 'long' });
+    var date = new Date(dateStr)
+    return date.toLocaleDateString(locale, { weekday: 'long' })
 }
 
-var dateStr = '05/23/2014';
-var day = getDayName(dateStr);
+var dateStr = '05/23/2014'
+var day = getDayName(dateStr)
 
 console.log(day)
 

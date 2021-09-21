@@ -1,7 +1,6 @@
 function getLetter(s) {
 
-    var feedback = s[0];
-
+    var feedback = s[0]
     // let str = ["a", "e", "i", "o", "u"];
     // let str2 = ["b", "c", "d", "f", "g"];
     // let str3 = ["h", "j", "k", "l", "m"];
@@ -13,7 +12,7 @@ function getLetter(s) {
         case "i":
         case "o":
         case "u":
-            feedback = "A";
+            feedback = "A"
             break;
 
         case "b":
@@ -21,7 +20,7 @@ function getLetter(s) {
         case "d":
         case "f":
         case "g":
-            feedback = "B";
+            feedback = "B"
             break;
 
         case "h":
@@ -29,8 +28,8 @@ function getLetter(s) {
         case "k":
         case "l":
         case "m":
-            feedback = "C";
-            break;
+            feedback = "C"
+            break
 
         case "n":
         case "p":
@@ -43,12 +42,12 @@ function getLetter(s) {
         case "x":
         case "y":
         case "z":
-            feedback = "D";
-            break;
+            feedback = "D"
+            break
         default:
-            feedback = "Invalid";
+            feedback = "Invalid"
     }
-    return feedback;
+    return feedback
 }
 
-console.log(getLetter("adfgt"));
+console.log(getLetter("adfgt"))

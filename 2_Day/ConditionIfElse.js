@@ -15,7 +15,7 @@ function performAction(score) {
     } else {
         grade = "Not a valid score!"
     }
-    return console.log(grade);
+    return console.log(grade)
 
 }
 performAction(11)
